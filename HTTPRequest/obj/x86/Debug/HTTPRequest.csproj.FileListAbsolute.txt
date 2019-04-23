@@ -1,0 +1,13 @@
+E:\Temp\HTTPRequest\HTTPRequest\bin\Debug\HTTPRequest.exe
+E:\Temp\HTTPRequest\HTTPRequest\bin\Debug\HTTPRequest.pdb
+E:\Temp\HTTPRequest\HTTPRequest\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Temp\HTTPRequest\HTTPRequest\obj\x86\Debug\HTTPRequest.exe
+E:\Temp\HTTPRequest\HTTPRequest\obj\x86\Debug\HTTPRequest.pdb
+E:\Temp\HTTPRequest\HTTPRequest\bin\Debug\HTTPRequest.exe.config
+E:\Temp\KuaiDi\HTTPRequest\bin\Debug\HTTPRequest.exe.config
+E:\Temp\KuaiDi\HTTPRequest\obj\x86\Debug\HTTPRequest.exe
+E:\Temp\KuaiDi\HTTPRequest\obj\x86\Debug\HTTPRequest.pdb
+E:\Temp\KuaiDi\HTTPRequest\bin\Debug\HTTPRequest.exe
+E:\Temp\KuaiDi\HTTPRequest\bin\Debug\HTTPRequest.pdb
+E:\Temp\KuaiDi\HTTPRequest\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Temp\KuaiDi\HTTPRequest\bin\Debug\Newtonsoft.Json.dll
